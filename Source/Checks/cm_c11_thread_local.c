@@ -1,5 +1,5 @@
 _Thread_local int i = 42;
 int main(void)
 {
-  return 2;
+  return 3;
 }
